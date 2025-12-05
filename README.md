@@ -1,2 +1,16 @@
-# split-bill-calculator
-Free online tool to split bills fairly and instantly. Try it here: https://onlinebillsplit.com/ is a simple and fast web-based tool that helps you divide expenses fairly among friends, family, or colleagues. Enter the total bill, number of participants, and optional custom contributions to get accurate per-person amounts in seconds.
+
+🔭 I’m currently working on:  
+- https://onlinebillsplit.com/ **Split Bill Online Calculator – Fairly with Our Free Tool**
+
+🌱 I’m currently learning:  
+- Web development, JavaScript, Laravel, and AI tools
+
+🎤 I'm sharing my journey on my website https://onlinebillsplit.com/
+
+💬 Ask me about my projects' tech stacks, finance tools, product design, or anything else!
+
+📫 How to reach me:  
+- pinterest https://www.pinterest.com/hurairaah07/
+
+
+🏠 See more on my personal website: (https://onlinebillsplit.com/)
